@@ -19,7 +19,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<a><img src='https://i.ibb.co/TqrthF8S/temp-image.jpg'/></a>
+<a><img src='https://files.catbox.moe/aneq3s.jpg'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
