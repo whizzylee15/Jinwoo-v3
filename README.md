@@ -5,7 +5,7 @@
 </p>
 
 <details>
-<summary> VIEW CHANGELOG V-1.0.0 ⬇️ </summary>
+<summary> VIEW CHANGELOG V-3.0.0 ⬇️ </summary>
   
 - **All Downloaders Fixed Now.**
 
@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/JawadYTX"><img title="Author" src="https://img.shields.io/badge/Malvin King-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/kingmalvn"><img title="Author" src="https://img.shields.io/badge/Malvin King-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a>
 
  <p align="center"><img src="https://profile-counter.glitch.me/{Jinwoo-v3}/count.svg" alt="kingmalvn :: Visitor's Count" old_src="https://profile-counter.glitch.me/{kingmalvn}/count.svg" /></p>
 
