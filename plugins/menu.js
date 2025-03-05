@@ -112,18 +112,18 @@ const test = async (m, Matrix) => {
 
    ❐ 𝙶𝚁𝙾𝚄𝙿 𝙼𝙴𝙽𝚄 ❐
 ╭┄┄┄┄┄┄┄┄┄┄┄┄┄┄
-┊ ${prefix}.ʟɪɴᴋɢᴄ
+┊ ${prefix}ʟɪɴᴋɢᴄ
 ┊ .${prefix}sᴇᴛᴘᴘɢᴄ
-┊ ${prefix}.sᴇᴛɴᴀᴍᴇ
-┊ ${prefix}.sᴇᴛᴅᴇsᴄ
-┊ ${prefix}.ɢʀᴏᴜᴘ
+┊ ${prefix}sᴇᴛɴᴀᴍᴇ
+┊ ${prefix}sᴇᴛᴅᴇsᴄ
+┊ ${prefix}ɢʀᴏᴜᴘ
 ┊ ${prefix}ɢᴄsᴇᴛᴛɪɴs
-┊ ${prefix}.ᴡᴇʟᴄᴏᴍᴇ
+┊ ${prefix}ᴡᴇʟᴄᴏᴍᴇ
 ┊ ${prefix}ᴀᴅᴅ
 ┊ ${prefix}ᴋɪᴄᴋ
-┊ ${prefix}.ʜɪᴅᴇᴛᴀɢ
-┊ ${prefix}.ᴛᴀɢᴀʟʟ
-┊ ${prefix}.ᴀɴᴛɪʟɪɴᴋ
+┊ ${prefix}ʜɪᴅᴇᴛᴀɢ
+┊ ${prefix}ᴛᴀɢᴀʟʟ
+┊ ${prefix}ᴀɴᴛɪʟɪɴᴋ
 ┊ ${prefix}ᴀɴᴛɪᴛᴏxɪᴄ
 ┊ ${prefix}ᴘʀᴏᴍᴏᴛᴇ
 ┊ ${prefix}ᴅᴇᴍᴏᴛᴇ
@@ -132,7 +132,7 @@ const test = async (m, Matrix) => {
 
    ❐ 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙼𝙴𝙽𝚄 ❐
 ╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-┊ ${prefix}.ᴀᴘᴋ
+┊ ${prefix}ᴀᴘᴋ
 ┊ ${prefix}ғᴀᴄᴇʙᴏᴏᴋ
 ┊ ${prefix}ᴍɪᴅᴇᴀғɪʀᴇ
 ┊ ${prefix}ᴘɪɴᴛᴇʀᴇsᴛᴅʟ
@@ -194,7 +194,9 @@ const test = async (m, Matrix) => {
 ┊ ${prefix}ᴛʀᴜᴇᴄᴀʟʟᴇʀ
 ┊ ${prefix}ɪɴsᴛᴀsᴛᴀʟᴋ
 ┊ ${prefix}ɢɪᴛʜᴜʙsᴛᴀʟᴋ
-╰┉┈┈┈┈┈┈┈┈┈┈┈┈┈┈❐`
+╰┉┈┈┈┈┈┈┈┈┈┈┈┈┈┈❐
+
+> ᴊᴏɪɴ ᴏᴜʀ ᴡᴀ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴍᴏʀᴇ ᴜᴘᴅᴀᴛᴇs`
 
     await Matrix.sendMessage(m.from, {
       image: fs.readFileSync('./media/jinwoo.jpg'),
@@ -215,7 +217,7 @@ const test = async (m, Matrix) => {
 
     // Send audio after sending the menu
     await Matrix.sendMessage(m.from, {
-      audio: { url: 'https://github.com/kinmalvn/KING-DATA/raw/refs/heads/main/autovoice/menunew.m4a' },
+      audio: { url: 'https://github.com/kingmalvn/KING-DATA/raw/refs/heads/main/autovoice/menunew.m4a' },
       mimetype: 'audio/mp4',
       ptt: true
     }, { quoted: m });
