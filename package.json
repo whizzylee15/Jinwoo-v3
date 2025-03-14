@@ -10,7 +10,7 @@
     "restart": "pm2 restart jinwoo"
   },
   "keywords": ["jinwoo-bot", "whatsapp-bot", "whatsapp md bot"],
-  "author": "kingmalvn",
+  "author": "Malvin",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",

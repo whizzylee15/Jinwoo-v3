@@ -1,16 +1,29 @@
 {
-  "name": "ᴊɪɴᴡᴏᴏ-ᴠ3",
-  "description": "I am Jinwoo v³ WhatsApp MultiDevice Bot built in NodeJs to enhance the experience.",
-  "logo": "https://i.ibb.co/TqrthF8S/temp-image.jpg",
-  "keywords": ["Jinwoo-v3"],
-  "repository": "https://github.com/kingmalvin/Jinwoo-v3",
-  "stack": "container",
-  "env": { 
+    "bot-name": "Jinwoo-v3",
+    "description": "JINWOO made for people on Earth By Malvin King",
+    "logo": "https://files.catbox.moe/gld2vo.jpg",
+    "keywords": ["bot"],
+    "documentation-link": "https://malvin-pair-code-xzcb.onrender.com",
+    "owner-verification":"malvink002@gmail.com",
+  
+"env": {
       "SESSION_ID": {
-      "description": "your session id",
-      "required": true,
-      "value": ""
+        "description": "Put your SESSION_ID here. Make sure it starts with MALVIN-XD~, or get session id from here, https://github.com/kingmalvn/Jinwoo-v3",
+        "value":"",
+        "required": true
+        
     },
+      "BOT_NAME": {
+        "description": "write here your bot name.",
+        "required": true,
+        "value": "✦『ᴊɪɴᴡᴏᴏ-ᴠ3』✦"    
+    },
+      "PREFIX": {
+        "description": "Bot command prefix, (e.g, . , ! @ etc",
+        "value":".",
+        "required": true
+        
+        },
     "MODE": {
       "description": "mode public or self",
       "required": true,
@@ -75,26 +88,9 @@
       "description": "make it true if you want to reject call",
       "required": false,
       "value": "false"
-    },
-    "PREFIX": {
-      "description": "Your Bot Prefix default (.)",
-      "required": false,
-      "value": "."
+        
+        
+      }
     }
-    },
-    "buildpacks": [
-    {
-      "url": "heroku/nodejs"
-    },
-    {
-      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
-    },
-    {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-    },
-    {
-      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
-    }
-  ]
-}
-
+  
+  }  
