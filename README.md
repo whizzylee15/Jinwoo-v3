@@ -48,7 +48,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 Click on Paring Code To Get Seasion ID To Start The JINWOO V3 If Getting Error Use VPN
 
-<a href='https://malvin-pair-7260ba936e0b.herokuapp.com/' target="_blank"><img alt='Pairing Code' src='https://img.shields.io/badge/Get Paring Code-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
+<a href='https://malvin-pair-code-xzcb.onrender.com/?' target="_blank"><img alt='Pairing Code' src='https://img.shields.io/badge/Get Paring Code-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
 
 ## **DEPLOY TO HEROKU**
 
